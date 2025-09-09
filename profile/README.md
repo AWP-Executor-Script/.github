@@ -51,7 +51,7 @@ AWP isn’t just about raw speed—it’s about **accuracy and safety**. Scripts
 * 2025-09-09: Optimized stealth bypass layer
 * 2025-08-21: Improved LUA injection speed
 * 2025-08-06: Fixed overlay scaling issue
-https://i.ytimg.com/vi/_F08qevMrvg/maxresdefault.jpg
+
 ## Conclusion 🎯
 
 **AWP Executor for Roblox** is all about precision, power, and protection. With its fast execution, sleek overlay, and stealth shield, it’s the ultimate injector for players who demand reliability.
@@ -79,3 +79,4 @@ Its **precision-speed execution** and reliable stealth shield.
 ## License
 
 MIT License
+
